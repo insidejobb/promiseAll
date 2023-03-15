@@ -1,0 +1,2 @@
+# promiseAll
+using promiseAll function
